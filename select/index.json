@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Takkan Pisah",
+  "base_artist": "Eren",
+  "createdAt": "2026-02-28T19:16:47.489666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/01_Takkan_Pisah_Wali.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Eren",
+      "has_synced": true,
+      "path": "select/02_Takkan_Pisah_Eren.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/03_Takkan_Pisah_Wali.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Eren",
+      "has_synced": true,
+      "path": "select/04_Takkan_Pisah_Eren.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/05_Takkan_Pisah_Wali.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Takkan Pisah 2",
+      "artist": "Eren Hill",
+      "has_synced": false,
+      "path": "select/06_Takkan_Pisah_2_Eren_Hill.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Takkan Pisah",
+      "artist": "Song, Eren",
+      "has_synced": true,
+      "path": "select/07_Takkan_Pisah_Song,_Eren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Takkan Pisah",
+      "artist": "Eren",
+      "has_synced": false,
+      "path": "select/pl_01_Takkan_Pisah_Eren.txt"
+    }
+  ]
+}
