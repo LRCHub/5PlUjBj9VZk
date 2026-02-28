@@ -1,0 +1,43 @@
+# Eren – Takkan Pisah
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sayang aku ingin berbicara
+kepadamu
+Tentang apa yang tengah aku
+rasakan
+Ada apa, ada apa katakanlah
+semuanya
+Ku kan dengarkan duhai cintaku
+Bila nanti orang tuamu tak
+meredhoi
+Dengan apa yang ku rasakan
+padamu
+Semua orang tua ingin yang
+terbaik untuk anaknya
+Begitu pun orang tuaku
+Kau tak kan tinggalkanku
+Tak kan pernah sayangku
+Janjimu Janjiku untukmu
+Takkan ada yang pisahkan kita
+Sekalipun kau telah tiada
+Akan ku pastikan
+Ku kan memeluk menciummu
+disyurga
+Jangan kau pergi tinggalkan aku
+Bawa aku kemana kau mau
+Janjiku padamu
+Jiwa dan ragaku
+Mati pun ku mau
+Takkan ada yang pisahkan kita
+Sekalipun kau telah tiada
+Akan ku pastikan
+Ku kan memeluk menciummu
+disyurga
+Jangan kau pergi tinggalkan aku
+Bawa aku kemana kau mau
+Janjiku padamu
+Jiwa dan ragaku
+Mati pun ku mau
+```
